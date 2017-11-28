@@ -1,0 +1,19 @@
+{
+  "name": "node_hangman",
+  "version": "1.0.0",
+  "description": "Hangman in node ",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danniboi82/Node_HangMan.git"
+  },
+  "author": "DanO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danniboi82/Node_HangMan/issues"
+  },
+  "homepage": "https://github.com/danniboi82/Node_HangMan#readme"
+}
